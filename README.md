@@ -9,4 +9,4 @@ L'objectif de ce projet est de servir de base d'apprentissage pour toutes les pe
 ---
 
 ## Structure du projet 📁
-
+backend/ ├── controllers/ │ ├── stuff.js │ └── user.js ├── models/ │ ├── Thing.js │ └── User.js ├── routes/ │ ├── stuff.js │ └── user.js ├── middleware/ │ ├── auth.js │ └── multer-config.js ├── images/ ├── app.js ├── server.js ├── package.json └── package-lock.json
