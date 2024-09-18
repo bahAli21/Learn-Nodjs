@@ -53,3 +53,11 @@ Pour exécuter ce projet, installez les dépendances :
 
 ```bash
 npm install
+nodemon server
+
+Conclusion 🎉
+```
+Ce projet est une base solide pour apprendre à travailler avec Node.js, Express et MongoDB. Explorez chaque fichier et expérimentez avec le code. Si vous avez des questions, je serai ravi de vous aider !
+
+Merci d'avoir consulté ce dépôt ! 🌍
+
